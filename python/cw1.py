@@ -19,3 +19,15 @@ print(f"""the foods entered are:
 {foods[1]}
 {foods[2]}""")
 
+
+
+
+
+
+
+
+
+
+
+
+
